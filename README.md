@@ -3,3 +3,5 @@
 <code> ng g m layout/provider --route provider  --module layout/layout.module</code>
 <h4>generate component</h4>
 <code> ng generate component component_location</code>
+<h4> Generate service </h4>
+<code> ng generate service service/provider/provider</code>
